@@ -1,0 +1,13 @@
+{
+    "development": {
+      "dbUrl": "mongodb://localhost/mediasia"
+    },
+    "test": {
+      "dbUrl": "mongodb://localhost/mediasia_test"
+    },
+    "production": {
+      "dbUrl": "mongodb://localhost/mediasia_prod"
+    }
+  }
+
+  
